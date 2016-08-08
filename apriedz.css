@@ -8,3 +8,9 @@
 .tombolsocial:before{content:"\f004";font-size:21px;top:5px;left:6px;}
 #searchnya,.sociico,#timedate{float:$endSide;}
 #searchnya{position:absolute;$endSide:0;display:none;}
+#ajax-search-form button,.tombolsrc{background-color:$(keycolor);-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;width:27px;height:27px;line-height:27px;color:$(mid1nav.text.color);cursor:pointer;}
+#ajax-search-form button{border:0;text-indent:-99999px;outline:none;}
+
+#ajax-search-form{margin:0;}
+#ajax-search-form input{border:0;padding:7px 5px;outline:0;font-size:90%;color:$(midnsearch.text.color);border-radius:1px;background-color:$(mid1navsubsub.background.color);}
+#ajax-search-form{margin:0;margin-top:8px;margin-$endSide:5px;z-index:2;}
