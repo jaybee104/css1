@@ -1,0 +1,29 @@
+/* For Desktops and Laptops*/
+@media only screen and (max-width : 1280px) {
+/* If device width is less than or equal to 1280px */
+}
+
+/* For Tablets*/
+@media only screen and (max-width : 1024px) {
+
+}
+
+/* For Small Tablets*/
+@media only screen and (max-width : 768px) {
+
+}
+
+/*For iPhones */
+@media only screen and (max-width : 640px) {
+
+}
+
+/* Mobiles */
+@media only screen and (max-width : 480px) {
+
+}
+
+/* Small Mobiles */
+@media only screen and (max-width : 320px) {
+
+}
