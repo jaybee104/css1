@@ -2,7 +2,7 @@
 Custom css starts
 ******************************************/
 body {
-
+color : #2e2e2e;
 font-family:'Montserrat',sans-serif;
 font-size: 14px;
 font-weight: normal;
@@ -1309,8 +1309,6 @@ left: 0;
 bottom: 0;
 width: 100%;
 height: 120px;
-background: url(http://3.bp.blogspot.com/-LnvazGBvKh8/VskckSkmzxI/AAAAAAAAC4s/erEgI6A_ih4/s1600-r/metabg.png) repeat-x;
-background-size: 100% 100%;
 opacity: .8;
 }
 .related-overlay {
