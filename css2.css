@@ -80,7 +80,7 @@ font-weight: 400;
 .top-bar-social .facebook:before {
 content: "\f09a";
 }
-.top-bar-social #social a.facebook:hover {
+.top-bar-social #social a.facebook:{
 background-color: #3b5998;
 }
 .top-bar-social .twitter:before {
@@ -113,10 +113,7 @@ content: "\f0d2";
 .top-bar-social ul#social a.pinterest:hover {
 background-color: #cc2127;
 }
-.top-bar-social ul#social a:hover {
-color: #fff;
-opacity: 1;
-}
+
 .top-bar-menu {
 float: right;
 }
@@ -315,9 +312,7 @@ line-height: 80px;
 margin-left: 10px;
 color: #999;
 }
-.iconheader a i:hover {
-color:#E80007;
-}
+
 /* ######## Top Feature Css ######################### */
 .featured-sec {
 margin: 0 auto;
@@ -852,9 +847,7 @@ margin-top: 10px;
 .ticker .recent-title a {
     color: #222222
 }
-.ticker .recent-title a:hover {
-    color: #e74c3c
-}
+
 .tickercontainer,
 .tickercontainer .mask,
 ul.newsticker {
@@ -1156,13 +1149,7 @@ margin-top: 10px;
 .pagecurrent {
 float:left;
 }
-.displaypageNum a:hover,
-.showpage a:hover,
-.pagecurrent, .blog-pager-older-link:hover, .blog-pager-newer-link:hover {
-background: $secondcolor;
-text-decoration: none;
-color: #fff;
-}
+
 #blog-pager .showpage,
 #blog-pager {
 padding: 5px 10px;
@@ -1662,9 +1649,6 @@ font-weight: 400;
 font-size: 13px;
 line-height: 1.6em;
 font-family: "Playfair Display";
-}
-.PopularPosts ul li a:hover {
-color: #e74c3c;
 }
 .PopularPosts .item-title {
 margin: 0;
